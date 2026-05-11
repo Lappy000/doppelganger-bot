@@ -204,7 +204,3 @@ Contributions welcome! Areas of interest:
 - Multi-language personality templates
 - Voice message transcription & analysis
 - Sentiment tracking over time
-
----
-
-*Built with ❤️ and mild sociopathy by [Lappy000](https://github.com/Lappy000)*
